@@ -1,0 +1,2 @@
+https://github.com/techiediaries/django-crm
+https://github.com/techiediaries/ng-crm
